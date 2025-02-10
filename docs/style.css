@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "GangwonEduPowerExtraBoldA";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEduPowerExtraBoldA.woff")
+    format("woff");
+  /* font-weight: normal;
+    font-style: normal; */
+}
+
+@font-face {
+  font-family: "CookieRun-Regular";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/CookieRun-Regular.woff")
+    format("woff");
+  /* font-weight: normal;
+  font-style: normal; */
+}
+
+body {
+  font-family: "CookieRun-Regular";
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header {
+  font-family: "GangwonEduPowerExtraBoldA";
+}
